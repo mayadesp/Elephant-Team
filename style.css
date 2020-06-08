@@ -38,3 +38,12 @@ h1 {
     padding-left: 20px;
     padding-top: 10px;
 }
+
+img {
+    width: 320px;
+    height: 320px;
+}
+
+h4 {
+    text-align: center;
+}
